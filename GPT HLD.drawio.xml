@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T09:42:47.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="mHoEdixyaCw354QeGMXU" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T09:43:04.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="7khAO7heLwcqSL9aSIp5" version="20.4.1" type="github">
   <diagram id="p62nNmWZJVYrlF-ElmkR" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1200" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="MMFIDSOGzjEyUtDDTWcC-3" value="Sniper_sdk" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MMFIDSOGzjEyUtDDTWcC-11" value="showIndicator(model)&lt;br&gt;showChart(type)&lt;br&gt;show(orders)&lt;br&gt;&lt;br&gt;show(view, price)&lt;br&gt;&lt;br&gt;set(mode)&lt;br&gt;set(dataSource)&lt;br&gt;set(eventListener)&lt;br&gt;&lt;br&gt;update(indexLtp)&lt;br&gt;removePricePicker(id)&lt;br&gt;remove(view, price)&lt;br&gt;Hell&lt;br&gt;&lt;br&gt;&lt;strike&gt;update(ltp, strikePrice, optionType)&lt;/strike&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MMFIDSOGzjEyUtDDTWcC-11" value="showIndicator(model)&lt;br&gt;showChart(type)&lt;br&gt;show(orders)&lt;br&gt;&lt;br&gt;show(view, price)&lt;br&gt;&lt;br&gt;set(mode)&lt;br&gt;set(dataSource)&lt;br&gt;set(eventListener)&lt;br&gt;&lt;br&gt;update(indexLtp)&lt;br&gt;removePricePicker(id)&lt;br&gt;remove(view, price)&lt;br&gt;&lt;br&gt;&lt;strike&gt;update(ltp, strikePrice, optionType)&lt;/strike&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="570" width="230" height="250" as="geometry" />
         </mxCell>
         <mxCell id="MMFIDSOGzjEyUtDDTWcC-31" value="" style="group" parent="1" vertex="1" connectable="0">
