@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T09:55:04.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ftBEnCd6srC8zxuzu0PI" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T09:59:43.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0OcKMpaS6kgLGszsm2Ln" version="20.4.0" type="github">
   <diagram id="p62nNmWZJVYrlF-ElmkR" name="Page-1">
     <mxGraphModel dx="1258" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
         <mxCell id="XXFnMLG62JQWiEvD6RZ_-2" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="50" y="690" width="420" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="MMFIDSOGzjEyUtDDTWcC-11" value="showIndicator(model)&lt;br&gt;showChart(type)&lt;br&gt;show(orders)&lt;br&gt;&lt;br&gt;show(view, price)&lt;br&gt;&lt;br&gt;set(mode)&lt;br&gt;set(dataSource)&lt;br&gt;addListener(eventListener)&lt;br&gt;removeListener(eventListener)&lt;br&gt;setZoomConstraint()&lt;br&gt;&lt;br&gt;update(indexLtp)&lt;br&gt;setTickSize()&lt;br&gt;removePricePicker(id)&lt;br&gt;remove(view, price)&lt;br&gt;&lt;br&gt;dispatchChartEvent()&lt;br&gt;&lt;br&gt;freeze()&lt;br&gt;reset()&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strike&gt;update(ltp, strikePrice, optionType)&lt;/strike&gt;" style="whiteSpace=wrap;html=1;" parent="XXFnMLG62JQWiEvD6RZ_-2" vertex="1">
+        <mxCell id="MMFIDSOGzjEyUtDDTWcC-11" value="showIndicator(model)&lt;br&gt;showChart(type)&lt;br&gt;show(orders)&lt;br&gt;&lt;br&gt;show(view, price)&lt;br&gt;&lt;br&gt;set(mode)&lt;br&gt;set(dataSource)&lt;br&gt;addListener(eventListener)&lt;br&gt;removeListener(eventListener)&lt;br&gt;setZoomConstraint(axis, min, max)&lt;br&gt;&lt;br&gt;update(indexLtp)&lt;br&gt;setTickSize(tickSize)&lt;br&gt;removePricePicker(id)&lt;br&gt;remove(view, price)&lt;br&gt;&lt;br&gt;dispatchChartEvent()&lt;br&gt;&lt;br&gt;freeze()&lt;br&gt;reset()&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strike&gt;update(ltp, strikePrice, optionType)&lt;/strike&gt;" style="whiteSpace=wrap;html=1;" parent="XXFnMLG62JQWiEvD6RZ_-2" vertex="1">
           <mxGeometry y="30" width="420" height="440" as="geometry" />
         </mxCell>
         <mxCell id="qGCuwDB_Pk9QgpqhO5wi-6" value="&lt;b&gt;FinanceChart&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="XXFnMLG62JQWiEvD6RZ_-2" vertex="1">
